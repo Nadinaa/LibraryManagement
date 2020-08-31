@@ -1,0 +1,7 @@
+
+•
+java:S1319"sThe type of the "bookList" object should be an interface such as "List" rather than the implementation "ArrayList".(æì¦Ìÿÿÿÿÿ8ŸÅÖÑ©.
+s
+java:S1104"QMake genre a static final constant or non-public and provide accessors if needed.(¯Û¿Õøÿÿÿÿ8ø¬ÔÑ©.
+v
+java:S1104"TMake bookList a static final constant or non-public and provide accessors if needed.(æì¦Ìÿÿÿÿÿ8ŸÅÖÑ©.

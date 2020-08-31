@@ -1,0 +1,16 @@
+
+m
+java:S1104	"PMake isbn a static final constant or non-public and provide accessors if needed.(ËŞ¢›8¹êÒÑ©.
+s
+java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(×ß–Öùÿÿÿÿ8øÙÑÑ©.
+o
+java:S1104"RMake author a static final constant or non-public and provide accessors if needed.(ÌÊß›8øÙÑÑ©.
+s
+java:S1104"QMake genre a static final constant or non-public and provide accessors if needed.(¯Û¿Õøÿÿÿÿ8ÀÓÑ©.
+n
+java:S1104"QMake title a static final constant or non-public and provide accessors if needed.(Å¬õ8øÙÑÑ©.
+v
+java:S1104
+"YMake numberOfPages a static final constant or non-public and provide accessors if needed.(ğã–Ä8óïèÑ©.
+x
+java:S1104"VMake returnDate a static final constant or non-public and provide accessors if needed.(ßØ­ûúÿÿÿÿ8Ö¥¢ª.
